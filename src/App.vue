@@ -5,7 +5,7 @@
     <router-link to="/seemap">地图展示</router-link>
     <router-link to="/fuMap">天气</router-link>
     <router-link to="/openlayer">openleayers</router-link>
-    <router-link to="/circle">圆环图22</router-link>
+    <router-link to="/circle">圆环图</router-link>
     <router-view />
   </div>
 </template>
