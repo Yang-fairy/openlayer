@@ -5,7 +5,8 @@
     <router-link to="/seemap">地图展示</router-link>
     <router-link to="/fuMap">天气</router-link>
     <router-link to="/openlayer">openleayers</router-link>
-    <router-link to="/circle">圆环图11</router-link>
+    <router-link to="/circle">圆环图</router-link>
+    <router-link to="/areaMap">区域地图北京</router-link>
     <router-view />
   </div>
 </template>

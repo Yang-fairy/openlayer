@@ -30,5 +30,9 @@ export default new Router({
       path: "/circle",
       component: () => import("../circle.vue")
     },
+    {
+      path: "/areaMap",
+      component: () => import("../areaMap.vue")
+    },
   ]
 });
